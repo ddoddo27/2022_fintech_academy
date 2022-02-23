@@ -1,6 +1,6 @@
 import React from "react";
 
-const NewsList = () => {
+const NewsList = ({searchResultList}) => {
   return <div>NewsList</div>;
 };
 

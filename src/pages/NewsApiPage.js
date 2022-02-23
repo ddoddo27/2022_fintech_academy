@@ -29,6 +29,7 @@ const NewsApiPage = () => {
       .catch((err) => {
         console.error(err);
       });
+      
   };
 
   return (
